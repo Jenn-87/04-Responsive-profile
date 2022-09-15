@@ -1,3 +1,7 @@
+# Profile 
+
+![screencapture-file-Users-jenniferyukinakayama-code-Jenn-87-fullstack-challenges-04-Front-End-01-HTML-and-CSS-04-Responsive-profile-profile-index-html-2022-09-15-14_09_09](https://user-images.githubusercontent.com/98619821/190319656-43adab5a-984e-43f6-ae81-55725488e36d.png)
+
 ## Setup
 
 We want to put the final touches on our profile page now. If you haven't already, let's copy your profile into this challenge's folder:
@@ -21,7 +25,6 @@ If you want a responsive design, you can add media queries in your CSS. To use m
 This allows your page to detect the screen width of the device you are using.
 
 Media queries work a bit like an `if` statement in Ruby. Basically **you can define CSS rules that will only apply if the window is smaller than a given width**. For instance, if you want a responsive container, you can build it like this:
-
 
 ```css
 @media (max-width: 960px) {
